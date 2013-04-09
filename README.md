@@ -6,11 +6,12 @@ Android AR.FreeFlight 2.0 application with option to connect one or two Spheros.
 --------------------------
 
 [Here](Builds/FreeFlightWithSpheros.apk)'s a working build.
-The Sphero Mode can be enabled inside the settings menu and will allow you to connect up to 2 Spheros to control the AR.Drone. 
+The Sphero Mode can be enabled inside the settings menu and will allow you to connect up to 2 Spheros to control the AR.Drone.
 
-* **One Sphero Mode**: allows you to control the pitch/roll of the AR.Drone using the pitch and roll of the Sphero.
-* **Two Spheros Mode**: allows you to control the pitch/roll and throttle/yaw. The primary Sphero (purple/pink) will control the pitch/roll of the AR.Drone and the secondary Sphero will control the throttle and yaw.
-It is quite challenging to pilot the AR.Drone while combining pitch/roll with yaw, so there is an option to disable the yaw while pitch and roll commands are being send to the AR.DRone.
+* **One Sphero Mode**: controls the pitch/roll of the AR.Drone using the pitch/roll of the Sphero.
+* **Two Spheros Mode**: enables control of the pitch/roll via the primary Sphero (indicated by purple/pink color) and throttle/yaw via the secondary Sphero (indicated by yellow color).
+Pitching up the secondary Sphero to 60° angle will trigger a take off and pitching it down to -60°, while flying, will trigger a landing.
+Piloting with pitch/roll AND yaw enabled can be quite difficult. As such there is an option to disable the yaw while pitch and roll commands are being sent to the AR.Drone.
 
 --------------------------
 
