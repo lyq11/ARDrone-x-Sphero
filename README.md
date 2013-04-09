@@ -5,7 +5,7 @@ Android AR.FreeFlight 2.0 application with option to connect one or two Spheros.
 
 --------------------------
 
-[Here](Builds/FreeFlightWithSpheros.apk)'s a working build.
+You can find a working build [here](Builds/FreeFlightWithSpheros.apk).
 The Sphero Mode can be enabled inside the settings menu and will allow you to connect up to 2 Spheros to control the AR.Drone.
 
 * **One Sphero Mode**: controls the pitch/roll of the AR.Drone using the pitch/roll of the Sphero.
